@@ -1,27 +1,37 @@
-# PassaroUrbano
+# Pássaro Urbano
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+O Pássaro Urbano é um sistema baseado no famoso site Peixe Urbano, desenvolvido com o framework Angular, que utiliza as bibliotecas Bootstrap e jQuery para criar uma interface de usuário atraente e responsiva. A aplicação oferece diversas funcionalidades para a compra de cupons de desconto em diferentes estabelecimentos comerciais, e é desenvolvida com a linguagem TypeScript para garantir maior produtividade e segurança durante o processo de desenvolvimento.
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Algumas das principais funcionalidades do Pássaro Urbano são:
 
-## Code scaffolding
+- Busca por estabelecimentos comerciais e cupons de desconto
+- Criação e gerenciamento de cupons pelos administradores
+- Compra de cupons pelos usuários
+- Exibição de informações sobre os estabelecimentos comerciais, como endereço, telefone e horário de funcionamento
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologias utilizadas
 
-## Build
+O Pássaro Urbano é desenvolvido com as seguintes tecnologias:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Angular
+- Bootstrap
+- jQuery
+- TypeScript
 
-## Running unit tests
+## Instalação e uso
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Para instalar e utilizar o Pássaro Urbano, siga as instruções abaixo:
 
-## Running end-to-end tests
+1.  Clone o repositório do projeto em sua máquina local
+2.  Instale as dependências do projeto executando o comando `npm install`
+3.  Inicie a aplicação executando o comando `npm start`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contribuições
 
-## Further help
+Contribuições são sempre bem-vindas! Se você deseja contribuir para o Pássaro Urbano, por favor, abra uma issue ou envie um pull request com suas sugestões e alterações.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Licença
+
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
