@@ -35,3 +35,5 @@ Contribuições são sempre bem-vindas! Se você deseja contribuir para o Pássa
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+## Curso Desenvolvimento Web com JavaScript, TypeScript e Angular - Prof. Jorge Santa Ana (https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4/)
